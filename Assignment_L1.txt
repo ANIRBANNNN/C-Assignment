@@ -1,0 +1,15 @@
+Assignment_L1
+3. In case of float and int data type will take 4 bytes in memory size
+   In case of bool data type, it will 1 byte memory size
+
+
+4.void main(){
+	int a=4;
+int b=5;
+a++;b--;
+cout<<++a<<” “<<b–-;
+}
+From the above code we can clearly see a will be incremented by 1 as a++ is there so a will be updated to 5 and similarly for b-- b is updated to 4.
+Now as pre-incremented operation is there in case of a so finally a will be displayed as 6 but in case of b as post-decrement operator is there so c will remain as 4.
+
+6._FLOAT and FLOAT are both possible for variable naming in C++
